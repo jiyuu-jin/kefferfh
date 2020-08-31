@@ -92,6 +92,10 @@ nav ul a{
     display: inline-block;
 }
 
+.staff-title{
+  color: white;
+}
+
 
 .services{
     display: none;
@@ -162,6 +166,9 @@ header{
   height: 100%;
 }
 
+#about, #florists{
+  padding: 50px 20px;
+}
 
 .slider .slides li img{
     background-repeat: no-repeat;

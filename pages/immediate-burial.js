@@ -8,7 +8,7 @@ const ImmediateBurial = () => ({
       <Layout title={"Immediate Burial Services"} >
         <div className="container">
 
-          <h3 className="inTheBlue">Effective: January 1, 2019</h3>
+          <h3 className="inTheBlue">Effective: January 1, 2020</h3>
 
           <h4 className="blue-text">Immediate Burial Service</h4>
           <p>Direct Burial does not preclude family viewing or choice of casket.  The following services can include a 1/2 hour private family viewing at the funeral home, including embalming and additional care of the body for viewing. (additional charge) <span className="bold"> 775.00</span> </p>

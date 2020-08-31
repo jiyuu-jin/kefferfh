@@ -142,7 +142,12 @@ const Layout = ({children, title}) => (
         <Head>
             <title>{title}</title>
             <meta charSet="utf-8" />
-            <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+            <meta name="description" content="Eat well, and live sustainably with just the items in your fridge" />
+            <meta name="og:title" content={"Keffer Funeral Home"} />
+            <meta name='apple-mobile-web-app-capable' content='yes' />
+            <meta name='apple-mobile-web-app-status-bar-style' content='default' />
+            <meta name='mobile-web-app-capable' content='yes' />
+            <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
             <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"></link>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" />
             <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>

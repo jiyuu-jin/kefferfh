@@ -6,7 +6,7 @@ export default function Prices() {
         <Layout title={"Keffer Funeral Home"}>
         <div className="container">
           <h4 className="blue-text">General Price List</h4>
-          <p>Effective January 1, 2019</p>
+          <p>Effective January 1, 2020</p>
 
             The goods and services shown are those we can provide to our customers.  You may choose only the items you desire.  However, any funeral arrangements you select will include a charge for our basic services and overhead.  If legal or other requirements mean you must buy items you did not specifically ask for, we will explain the reason in writing on the statement we provide describing the funeral goods and services you selected.
 

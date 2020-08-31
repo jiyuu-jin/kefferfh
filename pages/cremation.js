@@ -8,7 +8,7 @@ const Cremation = () => ({
       <Layout title={"Immediate Burial Services"} >
         <div className="container">
 
-          <h3 className="inTheBlue">Effective: January 1, 2019</h3>
+          <h3 className="inTheBlue">Effective: January 1, 2020</h3>
 
 
           <h4 className="blue-text">Cremation Service Prices</h4>

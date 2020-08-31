@@ -25,7 +25,7 @@ export default function Home() {
 
             <div className="row">
               <div className="search-contain">
-                <a style={{ backgroundColor: '#005497', margin: '20px auto 0 auto' }} className="waves-effect waves-light btn-large" href="https://www.legacy.com/search?cityId=297134&cityUrl=york&countryId=366899&countryUrl=united-states-of-america&dateRange=Last30Days&firstName=&stateAbbrev=PA&stateId=366890&stateUrl=pennsylvania" target="_blank"> <h5 style={{fontSize: '25px', fontWeight: '300' }}>Click to Search Obituaries</h5></a>
+                <a style={{ backgroundColor: '#005497', margin: '20px auto 0 auto', paddingBottom: "4em" }} className="waves-effect waves-light btn-large" href="https://www.legacy.com/search?cityId=297134&cityUrl=york&countryId=366899&countryUrl=united-states-of-america&dateRange=Last30Days&firstName=&stateAbbrev=PA&stateId=366890&stateUrl=pennsylvania" target="_blank"> <h5 style={{fontSize: '25px', fontWeight: '300' }}>Click to Search Obituaries</h5></a>
               </div>
               <h6 style={{ textAlign: 'center', display: 'block', color: 'black', fontWeight: 'bold' }}>* By clicking the search you will be redirected to legacy.com</h6>
             </div>
@@ -158,8 +158,8 @@ export default function Home() {
         <div className="section">
           <div className="row">
             <div className="col s12 m3">
-              <Link className="black-text" href="/caskets">
-                <a>
+              <Link href="/caskets">
+                <a style={{color: "black"}}>
                   <div className="icon-block">
                     <h5>Caskets</h5>
                     <img alt=" " src="/images/casket.jpg" />
@@ -168,8 +168,8 @@ export default function Home() {
               </Link>
             </div>
             <div className="col s12 m3">
-              <Link className="black-text" href="/containers">
-              <a>
+              <Link href="/containers">
+              <a style={{color: "black"}}>
                 <div className="icon-block">
                     <h5>Burial Containers</h5>
                     <img alt=" " src="/images/burial_container.jpg" />
@@ -186,8 +186,8 @@ export default function Home() {
               </a>
             </div>
             <div className="col s12 m3">
-              <Link className="black-text" href="/cards">
-              <a>
+              <Link href="/cards">
+              <a style={{color: "black"}}>
                 <div className="icon-block">
                   <h5>Prayer Cards</h5>
                   <img alt=" " height="170px" src="/images/prayer_card.jpg" />

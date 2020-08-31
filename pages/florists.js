@@ -6,7 +6,7 @@ import Layout from '../components/Layout';
 export default function Florists() {
     return (
       <Layout title={"Keffer Funeral Home"}>
-        <div className="container">
+        <div id="florists" className="container">
           <br />
           <br />
           <br />
@@ -37,6 +37,9 @@ export default function Florists() {
                       </div>
           </div>
 
+          <br />
+          <br />
+          <br />
           <br />
           <br />
           <br />

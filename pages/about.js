@@ -4,7 +4,7 @@ import Layout from '../components/Layout';
 export default function About() {
   return (
     <Layout title={"Keffer Funeral Home"}>
-      <div className="container">
+      <div id="about" className="container">
           <br />
           <div className="row">
             <div className="col m6 center">
@@ -16,14 +16,12 @@ export default function About() {
               <p>We have developed an excellent pre-planning service and in June 1995 opened a new funeral home at 2114 West Market Street. More recently, we began offering the new Cremation Direct Service of York County and in January 2001 opened Cremation Direct Service Crematory at 371 Kings Mill Rd.​</p>
             </div>
           </div>
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
       </div>
     </Layout>  
   )
