@@ -8,7 +8,7 @@ const Cremation = () => ({
       <Layout title={"Immediate Burial Services"} >
         <div className="container">
 
-          <h3 className="inTheBlue">Effective: January 1, 2020</h3>
+          <h3 className="inTheBlue">Effective: January 1, 2021</h3>
 
 
           <h4 className="blue-text">Cremation Service Prices</h4>
@@ -59,14 +59,14 @@ const Cremation = () => ({
                 <span className="bold"> $190.00</span></p>
 
           <p>¹Includes minimum charge for Cremation Container
-                <span className="bold"> $85 / Caskets - $465.00 & up</span>
+                <span className="bold"> $85 / Caskets - $510.00 & up</span>
           </p>
 
           <h5 className="blue-text">Direct Cremation</h5>
 
           <p>Includes removal, office work, placing obituary, transportation expense, plastic utility urn, cremation container and crematory charge Family to Compose Obituary.
                 (Must be paid at or prior to time of need).
-                <span className="bold"> $1090.00</span></p>
+                <span className="bold"> $1290.00</span></p>
 
           <h5 className="blue-text">Additional charges for the following services:</h5>
           <ul className="disc-list">

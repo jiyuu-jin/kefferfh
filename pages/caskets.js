@@ -28,14 +28,14 @@ function Caskets() {
       <div className="section">
         <div className="row">
           <div className="col m3">
-            <img className="casketOffset materialboxed" alt="lincoln" src="/images/caskets/lincoln.jpg" />
+            Coming soon
           </div>
           <div className="col m8">
-            <h6 className="blue-text">LINCOLN</h6>
-            <h6>Brushed Natural/Heritage Bronze or Lilac Finish</h6>
-            <h6>Almond or Ice Pink Velvet Interior</h6>
+            <h6 className="blue-text">Pieta</h6>
+            <h6>Brushed Natural/Metallic Bronze Finish</h6>
+            <h6>Arbutus velvet</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$6,839.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$6,845.00</span></div>
         </div>
       </div>
 
@@ -51,7 +51,7 @@ function Caskets() {
             <h6>Brushed Golden Fawn Finish</h6>
             <h6>Champagne Velvet Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$4,364.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$4,460.00</span></div>
         </div>
       </div>
 
@@ -60,14 +60,14 @@ function Caskets() {
       <div className="section">
         <div className="row">
           <div className="col m3">
-            <img className="casketOffset materialboxed" alt="lincoln" src="/images/caskets/mansfield.jpg" />
+            Coming soon
           </div>
           <div className="col m8">
-            <h6 className="blue-text">MANSFIELD</h6>
-            <h6>Brushed Blue or Brushed Silver Rose</h6>
-            <h6>Blue or Ice Pink Velvet Interior</h6>
+            <h6 className="blue-text">Onyx</h6>
+            <h6>Brushed natural onyx finish.</h6>
+            <h6>Silver velvet interior.</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$3,910.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$3,960.00</span></div>
         </div>
       </div>
 
@@ -89,7 +89,7 @@ function Caskets() {
             <h6>Silver Rose Shaded Platinum Finish</h6>
             <h6>Ice Pink Velvet Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$3,291.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$3,520.00</span></div>
         </div>
       </div>
 
@@ -105,7 +105,7 @@ function Caskets() {
             <h6>Franklin Bronze Shaded Ebony Finish</h6>
             <h6>Almond Velvet Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$3,291.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$3,520.00</span></div>
         </div>
       </div>
 
@@ -121,7 +121,7 @@ function Caskets() {
             <h6>Antique White</h6>
             <h6>Pink Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$2,785.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$2,960.00</span></div>
         </div>
       </div>
 
@@ -137,7 +137,7 @@ function Caskets() {
             <h6>Autumn Haze Rosetan</h6>
             <h6>Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$2,386.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$2,735.00</span></div>
         </div>
       </div>
 
@@ -149,11 +149,11 @@ function Caskets() {
             <img className="casketOffset materialboxed" alt="lincoln" src="/images/caskets/classic.jpg" />
           </div>
           <div className="col m8">
-            <h6 className="blue-text">CLASSIC</h6>
-            <h6>Spruce Blue or Silver Pearl Finish</h6>
-            <h6>Rosetan Crepe Interior</h6>
+            <h6 className="blue-text">SHEFFIELD</h6>
+            <h6>Silver, granite, light orchid, or bronze finish.</h6>
+            <h6>Velvet Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$2,122.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$2,625.00</span></div>
         </div>
       </div>
 
@@ -169,7 +169,7 @@ function Caskets() {
             <h6>Antique White Shaded, Empire Blue, or Gold</h6>
             <h6>Pink Crepe, Blue Crepe, or Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$2,095.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$2,270.00</span></div>
         </div>
       </div>
 
@@ -185,7 +185,7 @@ function Caskets() {
             <h6>Spruce Blue Shaded Platinum Finish</h6>
             <h6>Blue Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$1,860.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$2,085.00</span></div>
         </div>
       </div>
 
@@ -201,7 +201,7 @@ function Caskets() {
             <h6>Pastel Pink Shaded White Finish</h6>
             <h6>Pink Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$1,860.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$2,085.00</span></div>
         </div>
       </div>
 
@@ -222,7 +222,7 @@ function Caskets() {
             <h6>Colonial Bronze Shaded Venetian Bronze Finish</h6>
             <h6>Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$1,865.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$1,915.00</span></div>
         </div>
       </div>
 
@@ -238,7 +238,7 @@ function Caskets() {
             <h6>Silver Finish</h6>
             <h6>Ivory Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$1,630.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$1,735.00</span></div>
         </div>
       </div>
 
@@ -254,7 +254,7 @@ function Caskets() {
             <h6>Mandarin Finish</h6>
             <h6>Rosetan crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$1,270.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$1,420.00</span></div>
         </div>
       </div>
 
@@ -270,7 +270,7 @@ function Caskets() {
             <h6>Dark Gunmetal Hammertex Finish</h6>
             <h6>Eggshell Twill Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$1,165.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$1,335.00</span></div>
         </div>
       </div>
 
@@ -285,7 +285,7 @@ function Caskets() {
             <h6>Copper Finish</h6>
             <h6>Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$820.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$895.00</span></div>
         </div>
       </div>
 
@@ -300,7 +300,7 @@ function Caskets() {
             <h6>Olive Hammertex Interior</h6>
             <h6>Moselle Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$710.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$775.00</span></div>
         </div>
       </div>
 
@@ -321,7 +321,7 @@ function Caskets() {
             <h6>High Polished Dark Georgetown Finish</h6>
             <h6>Beige Velvet Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$7,785.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$7,480.00</span></div>
         </div>
       </div>
 
@@ -332,11 +332,11 @@ function Caskets() {
             <img className="casketOffset materialboxed" alt="lincoln" src="/images/caskets/winfield.jpg" />
           </div>
           <div className="col m8">
-            <h6 className="blue-text">WINFIELD</h6>
+            <h6 className="blue-text">Senator</h6>
             <h6>Polished Cherry-tone Finish</h6>
-            <h6>Rosetan velvet Interior</h6>
+            <h6>Ivory velvet Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$7,218.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$6,960.00</span></div>
         </div>
       </div>
 
@@ -348,10 +348,10 @@ function Caskets() {
           </div>
           <div className="col m8">
             <h6 className="blue-text">WARFIELD</h6>
-            <h6>Polished Cherry-tone Finish</h6>
-            <h6>Rosetan crepe Interior</h6>
+            <h6>Polished Amber Finish</h6>
+            <h6>Arbutus Velvet Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$5,128.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$5,105.00</span></div>
         </div>
       </div>
 
@@ -372,7 +372,7 @@ function Caskets() {
             <h6>Polish Light Caramel Finish</h6>
             <h6>Ice Pink Velvet Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$4,262.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$4,370.00</span></div>
         </div>
       </div>
 
@@ -388,7 +388,7 @@ function Caskets() {
             <h6>Satin Light Fawn Finish</h6>
             <h6>Almond Velvet Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$4,132.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$4,360.00</span></div>
         </div>
       </div>
 
@@ -404,7 +404,7 @@ function Caskets() {
             <h6>Polished Dark Walnut Finish</h6>
             <h6>Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$3,264.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$3,450.00</span></div>
         </div>
       </div>
 
@@ -420,7 +420,7 @@ function Caskets() {
             <h6>Satin Light Fawn Finish</h6>
             <h6>Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$3,301.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$3,540.00</span></div>
         </div>
       </div>
 
@@ -436,7 +436,7 @@ function Caskets() {
             <h6>Satin Medium Tutone Timber/Shaded Finish</h6>
             <h6>Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$3,143</span></div>
+          <div className="col m1 s12"><span className="blue-text">$3,370.00</span></div>
         </div>
       </div>
 
@@ -452,7 +452,7 @@ function Caskets() {
             <h6>Polished Sturbridge Finish</h6>
             <h6>Pink Velvet Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$3,082.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$3,360.00</span></div>
         </div>
       </div>
 
@@ -468,7 +468,7 @@ function Caskets() {
             <h6>Gloss Walnut Finish</h6>
             <h6>Rosetan crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$2,858.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$3,120.00</span></div>
         </div>
       </div>
 
@@ -483,7 +483,7 @@ function Caskets() {
             <h6>Polished Medium Sturbridge Finish</h6>
             <h6>Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$2,878.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$3,145.00</span></div>
         </div>
       </div>
 
@@ -504,7 +504,7 @@ function Caskets() {
             <h6>Tutone Tan Finish</h6>
             <h6>Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$2,318.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$2,705.00</span></div>
         </div>
       </div>
 
@@ -520,7 +520,7 @@ function Caskets() {
             <h6>Gloss Dark Mahogany Finish</h6>
             <h6>Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$2,000.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$2,220.00</span></div>
         </div>
       </div>
 
@@ -536,7 +536,7 @@ function Caskets() {
             <h6>Satin Dark Walnut Finish</h6>
             <h6>Rosetan crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$1,630.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$1,905.00</span></div>
         </div>
       </div>
 
@@ -552,7 +552,7 @@ function Caskets() {
             <h6>Satin Light Sandy Birch Finish</h6>
             <h6>Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$1,465.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$1,805.00</span></div>
         </div>
       </div>
 
@@ -567,7 +567,7 @@ function Caskets() {
             <h6>Matte Dark Smithville Finish</h6>
             <h6>Rosetan Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$1,315.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$1,685.00</span></div>
         </div>
       </div>
 
@@ -582,7 +582,7 @@ function Caskets() {
             <h6>Matte York Dark Walnut Finish</h6>
             <h6>Ivory Crepe Interior</h6>
           </div>
-          <div className="col m1 s12"><span className="blue-text">$925.00</span></div>
+          <div className="col m1 s12"><span className="blue-text">$1,160.00</span></div>
         </div>
       </div>
 
@@ -601,7 +601,7 @@ function Caskets() {
             <h6>Gray Flannel cardboard</h6>
             <h6>Ivory Crepe Interior.  Suitable for average height and weight.</h6>
           </div>
-          <div className="col m1"><span className="blue-text">$465.00</span></div>
+          <div className="col m1"><span className="blue-text">$510.00</span></div>
         </div>
       </div>
 
